@@ -24,16 +24,16 @@ A highly opinionated command-line tool that automatically organizes your files i
 ### From Source
 
 ```bash
-git clone https://github.com/Phr33d0m/file-mover-organizer.git
-cd file-mover-organizer
+git clone https://github.com/Phr33d0m/fmorg.git
+cd fmorg
 pip install -e .
 ```
 
 ### Development Installation
 
 ```bash
-git clone https://github.com/Phr33d0m/file-mover-organizer.git
-cd file-mover-organizer
+git clone https://github.com/Phr33d0m/fmorg.git
+cd fmorg
 pip install -e ".[dev]"
 ```
 
